@@ -16,7 +16,7 @@ describe("Handle tabs", ()=>{
         })
 
 
-        it.only("Approach_2", ()=>{
+        it("Approach_2", ()=>{
        
             cy.visit("https://the-internet.herokuapp.com/windows")
            
